@@ -83,4 +83,4 @@ async def sexdice():
 
 # ------- end of commands -------
 
-bot.run('MzI0MjUxODQzNjUzOTI2OTE0.DCG-qQ.KSIsjXzNEuamkl5BxLB9PyFajpM')
+bot.run('YOUR_BOT_CODE_HERE')
